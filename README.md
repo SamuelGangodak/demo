@@ -1,2 +1,4 @@
 # demo
-this is my practice repository
+This is my practice repository.
+Author - Samuel Gangodak
+
